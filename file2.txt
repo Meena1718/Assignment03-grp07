@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+had conflict in client page
+=======
 This is my second file2
+>>>>>>> 73134cea110355fc4e7646d0f4dcbaf48d618f1a
